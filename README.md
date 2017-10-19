@@ -2,7 +2,7 @@
 
 ### Summary
 
-Here I created a simulation to create synthetic overdispersed count data and investigated how overdispersion effects the estimation of Poisson model standard errors. Additionally, example datasets are modeled with a negative binomial model to investigate how the negative binomial model can more accurately model overdispersed count data. 
+Here is a simulation to create synthetic overdispersed count data and to investigate how overdispersion effects the estimation of Poisson model standard errors. Additionally, example datasets are modeled with a negative binomial model (NB-2 variance parameterization) to investigate how the negative binomial model can more accurately model overdispersed count data. 
 
 ### Index
 
